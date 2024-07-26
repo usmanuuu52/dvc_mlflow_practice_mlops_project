@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Gaming/ineuron-mlops/mlruns/0/efae7b330c7f45dfa5720ba8479cf6ed/artifacts
+end_time: 1721970349095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efae7b330c7f45dfa5720ba8479cf6ed
+run_name: stately-mouse-660
+run_uuid: efae7b330c7f45dfa5720ba8479cf6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721970347384
+status: 4
+tags: []
+user_id: Usmanyy

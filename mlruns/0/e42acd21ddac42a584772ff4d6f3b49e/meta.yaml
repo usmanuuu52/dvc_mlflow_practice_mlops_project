@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Gaming/ineuron-mlops/mlruns/0/e42acd21ddac42a584772ff4d6f3b49e/artifacts
+end_time: 1721971121878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e42acd21ddac42a584772ff4d6f3b49e
+run_name: upset-squid-792
+run_uuid: e42acd21ddac42a584772ff4d6f3b49e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721971103782
+status: 3
+tags: []
+user_id: Usmanyy

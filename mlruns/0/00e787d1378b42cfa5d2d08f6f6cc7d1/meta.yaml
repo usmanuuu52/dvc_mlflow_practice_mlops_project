@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Gaming/ineuron-mlops/mlruns/0/00e787d1378b42cfa5d2d08f6f6cc7d1/artifacts
+end_time: 1721933648253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00e787d1378b42cfa5d2d08f6f6cc7d1
+run_name: learned-toad-403
+run_uuid: 00e787d1378b42cfa5d2d08f6f6cc7d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721933648159
+status: 3
+tags: []
+user_id: Usmanyy

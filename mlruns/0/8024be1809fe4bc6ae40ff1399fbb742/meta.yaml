@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Gaming/ineuron-mlops/mlruns/0/8024be1809fe4bc6ae40ff1399fbb742/artifacts
+end_time: 1721970839442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8024be1809fe4bc6ae40ff1399fbb742
+run_name: dapper-bat-2
+run_uuid: 8024be1809fe4bc6ae40ff1399fbb742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721970829787
+status: 3
+tags: []
+user_id: Usmanyy
